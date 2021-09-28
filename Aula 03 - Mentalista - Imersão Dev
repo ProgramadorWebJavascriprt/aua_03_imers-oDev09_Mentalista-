@@ -4,9 +4,20 @@
   <title>
     Imersão Dev - Aula 03
   </title>
+  <meta charset="utf-8">
+  <script> aula02.js </script>
 </head>
-
-<body>
+  <header>
+   <marquee >Revisão de Códigos da Imersão Dev Alura dos dias 13/09 a 24/09  </marquee>
+   <div class="menu">
+    <ul>
+  <li><a href="https://www.youtube.com/c/Alura">Youtube Alura</a> </li>
+  <li><a href="https://www.facebook.com/AluraCursosOnline">facebook Alura</a></li>
+  <li><a href="https://www.instagram.com/aluraonline/">Instragam Alura</a> </li> 
+ </ul>
+   </div>
+ </header>
+body>
   <div class="container">
     <h1 class="page-title">
       Mentalista
@@ -24,5 +35,18 @@
   </a>
   <script src="app.js"></script>
 </body>
-
+<footer>
+  <marquee >Revisão de Códigos da Imersão Dev Alura dos dias 13/09 a 24/09  </marquee>
+<div class="rodape">
+  <div class="rodape">
+        <ul><li><a href="https://www.facebook.com/">facebook</a></li>
+        <li><a href="https://www.youtube.com/">you tube</a></li>
+        <li><a href="https://web.whatsapp.com/">whats</a></li>
+        <li><a href="https://mail.google.com/mail/u/0/?tab=wm&ogbl#inbox">e-mail</a></li>
+    </ul>
+ </div>
+<div class="rodape">
+ <center>Andre Luis Kunert- Setembro/2021 -Imersão Dev Alura </center> 
+</div>
+</footer>
 </html>
